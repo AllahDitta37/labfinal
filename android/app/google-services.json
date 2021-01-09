@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "841011342478",
+    "project_id": "labfinal-af2b1",
+    "storage_bucket": "labfinal-af2b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841011342478:android:4870642ba77795f9282ddf",
+        "android_client_info": {
+          "package_name": "com.example.labfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841011342478-3ah4fkvu1hmetqdogrj7o243klpq9c6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labfinal",
+            "certificate_hash": "0d77b2d665b9f75f72cea650343edabaa8181696"
+          }
+        },
+        {
+          "client_id": "841011342478-i6irvgjla05gq2th9b2rvg5igepca54q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiBm5wPf3CpDx2cU6325_lCmOz1vxLAxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841011342478-i6irvgjla05gq2th9b2rvg5igepca54q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
